@@ -20,6 +20,7 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "npm": "^5.7.1"
+        "npm": "^5.7.1",
+        "vuejs-paginate": "^1.8.0"
     }
 }
